@@ -51,6 +51,7 @@ export default {
       }
     }
   },
+  // 网页加载时读取数据
   mounted () {
     this.getHomeInfo()
   }
