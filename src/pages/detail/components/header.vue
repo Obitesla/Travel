@@ -74,6 +74,7 @@ export default {
     text-align center
     color #ffffff
     background $bgColor
+    z-index 2
     .header-fixed-back
       position absolute
       top 0
